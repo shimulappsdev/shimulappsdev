@@ -5,10 +5,10 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on an E-Commerce application and an Online Food delivary application.
-- 🌱 I’m currently learning backend with PHP and MySql.
-- 👯 I’m looking to collaborate on an entry-level job. 
-- 🤔 I’m looking for help with PHP, MySql and Spring boot with java for buld up my backend skill.
-- 💬 Ask me about native android apps development with java.
+- 🌱 I’m currently learning Python & dJango.
+- 👯 I’m looking to collaborate on an mid-level job. 
+- 🤔 I’m looking for help with Python, Django and MySql for buld up my backend skill.
+- 💬 Ask me about native Android app development with Java.
 - 📫 How to reach me: Through the contact email and mobile number mentioned on the GitHub profile.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
