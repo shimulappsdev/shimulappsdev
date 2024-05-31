@@ -4,11 +4,11 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on an E-Commerce application and an Online Food delivary application.
-- 🌱 I’m currently learning Python & dJango.
-- 👯 I’m looking to collaborate on an mid-level job. 
-- 🤔 I’m looking for help with Python, Django and MySql for buld up my backend skill.
-- 💬 Ask me about native Android app development with Java.
+- 🔭 I’m working on an E-Commerce and Online Food delivery application.
+- 🌱 I’m currently learning advanced Android development with Kotlin.
+- 👯 I’m looking to collaborate on a mid-level job. 
+- 🤔 I’m seeking help with Python, Django, and MySql to build my backend skills.
+- 💬 Ask me about native Android app development with Kotlin & Java.
 - 📫 How to reach me: Through the contact email and mobile number mentioned on the GitHub profile.
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
