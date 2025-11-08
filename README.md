@@ -13,7 +13,7 @@
 - 🔭 Currently working on a **Real Estate App** & **RadarX – NASA Asteroid Radar App**.  
 - 🌱 Learning **Jetpack Compose**, **Clean Architecture**, and **modern Android development** practices.  
 - 💬 Ask me about **Kotlin, Jetpack Compose, Android Architecture Components, and Backend APIs**.  
-- 🧠 Exploring **Spring Boot** and **REST API integration** for scalable app backends.  
+- 🧠 Exploring **Spring Boot**, **Python Django** and **REST API integration** for scalable app backends.  
 - ⚡ Fun fact: I love creating UIs that feel alive ✨ — where design meets smooth functionality.
 
 ---
@@ -40,13 +40,6 @@
 | 😂 **Joke App** | Offline + API jokes with day/night themes and favorites. | Kotlin, MVVM, Room |
 
 ---
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shimulappsdev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shimulappsdev&layout=compact&theme=tokyonight" alt="Top Languages" height="150" />
-</p>
 
 ---
 
