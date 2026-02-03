@@ -7,11 +7,10 @@
 
 ---
 
-### 🚀 About Me
-<p>🚀 <strong>About Me</strong></p>
+###<p>🚀 <strong>About Me</strong></p>
 <ul>
   <li>💼 Software Engineer passionate about building production-grade <strong>Android apps</strong> and robust <strong>backend systems</strong>.</li>
-  <li>🔭 Currently working on <strong>Business Management Software backend</strong> using <strong>Spring Boot</strong>, alongside my <strong>Real Estate App</strong> & <strong>RadarX – NASA Asteroid Radar App</strong>.</li>
+  <li>🔭 Currently working on <strong>Business Management Software backend</strong> using <strong>Spring Boot</strong>.</li>
   <li>🌱 Exploring <strong>Jetpack Compose</strong>, <strong>Clean Architecture</strong>, and modern Android development practices.</li>
   <li>💬 Ask me about <strong>Kotlin</strong>, <strong>Jetpack Compose</strong>, <strong>Android Architecture Components</strong>, and <strong>Backend APIs</strong>.</li>
   <li>🧠 Learning <strong>Spring Boot</strong>, <strong>Python Django</strong>, and <strong>REST API integration</strong> for scalable app backends.</li>
