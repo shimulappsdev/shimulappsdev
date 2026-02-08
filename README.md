@@ -25,7 +25,7 @@
 `Kotlin` · `Java` · `Jetpack Compose` · `XML` · `ViewModel` · `LiveData` · `DataBinding` · `Navigation Component`
 
 #### 🖥️ Backend  
-`Spring Boot` · `Python Django` · `MySQL` · `REST API`
+`Spring Boot` · `Python Django` · `MySQL` · `PostgreSQL` · `REST API`
 
 #### 🧰 Tools & Others  
 `Android Studio` · `Git & GitHub` · `Postman` · `Figma` · `Firebase` · `Gradle`
