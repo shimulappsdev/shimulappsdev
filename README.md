@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Md. Shimul Mia 👋</h1>
-<h3 align="center">Software Engineer | Android Developer (Native) | Java Developer(Spring Boot)</h3>
+<h3 align="center">Software Engineer | Android Developer (Native) | Java Developer (Spring Boot)</h3>
 
 <p align="center">
   <img src="https://github.com/shimulappsdev/shimulappsdev/assets/your-github-id-here/android-banner.gif" alt="Android Developer Banner" width="100%">
